@@ -1,0 +1,130 @@
+
+
+body {
+  font-family: "Montseratt";
+}
+
+h1 {
+  font-family: "Montseratt";
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Montseratt-bold";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+  padding-bottom: 25px;
+
+}
+
+h3 {
+  font-family: "Montseratt-bold";
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/*-----------------------------------classes--------------------------------*/
+
+/* .circular {
+  border-radius: 25%
+ */
+
+ /* Navigation Bar */
+ .navbar-brand{
+   font-family: "Ubuntu";
+   font-size: 2rem;
+   font-weight: bold;
+ }
+
+ .navbar {
+   padding: 0 0 4.5rem;
+ }
+
+ .nav-item {
+   padding: 0 18px;
+ }
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montseratt-light";
+}
+.container-fluid {
+ padding: 3% 15%;
+}
+
+/* Buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* title image */
+.title-image {
+  width: 90%;
+  /* transform: rotate(10deg); */
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ba7967;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.bottom-container {
+  text-align: center;
+  align-items: center;
+}
+/* -----------------------------------ID's-------------------------------------- */
+
+#title {
+  background-color: #4b5d67;
+  color: #fff;
+}
+
+/* features */
+#features {
+  padding: 7% 15%;
+}
+
+/* testimonial section */
+#testimonials {
+
+  text-align: center;
+  background-color: #3f4441;
+}
+
+.testimonial-image {
+  width: 85%;
+  margin: 10px;
+}
+
+#press {
+  background-color: #3f4441;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* card-deck */
